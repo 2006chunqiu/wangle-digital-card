@@ -1,0 +1,17 @@
+node_modules/
+dist/
+release/
+qa/
+.deploy/
+.netlify/
+.netlify-tools/
+.netlify-anonymous-deploy*.log
+.cache/
+.pnpm-home/
+.appdata/
+.config/
+.env
+.env.*
+.DS_Store
+Thumbs.db
+desktop.ini

@@ -1,0 +1,16 @@
+{
+  "name": "wangle-digital-card",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "A lightweight, responsive digital business card for a digital economy student.",
+  "scripts": {
+    "build": "node scripts/build.mjs",
+    "preview": "node scripts/preview.mjs",
+    "package": "node scripts/build.mjs",
+    "deploy:preview": "node scripts/build.mjs && node scripts/deploy-preview.mjs"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}

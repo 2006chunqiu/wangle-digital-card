@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+# 这是一个静态演示名片。部署到自有域名后，请将下一行替换为实际站点地图地址。
+# Sitemap: https://your-domain.example/sitemap.xml
